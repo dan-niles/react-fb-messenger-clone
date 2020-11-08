@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-fb-messenger-clone/static/css/main.54c6376d.chunk.css",
-    "main.js": "/react-fb-messenger-clone/static/js/main.f0f9dbe4.chunk.js",
-    "main.js.map": "/react-fb-messenger-clone/static/js/main.f0f9dbe4.chunk.js.map",
+    "main.css": "/react-fb-messenger-clone/static/css/main.9e69d33e.chunk.css",
+    "main.js": "/react-fb-messenger-clone/static/js/main.33783bf4.chunk.js",
+    "main.js.map": "/react-fb-messenger-clone/static/js/main.33783bf4.chunk.js.map",
     "runtime-main.js": "/react-fb-messenger-clone/static/js/runtime-main.e4cc3a2c.js",
     "runtime-main.js.map": "/react-fb-messenger-clone/static/js/runtime-main.e4cc3a2c.js.map",
-    "static/js/2.82729cfc.chunk.js": "/react-fb-messenger-clone/static/js/2.82729cfc.chunk.js",
-    "static/js/2.82729cfc.chunk.js.map": "/react-fb-messenger-clone/static/js/2.82729cfc.chunk.js.map",
+    "static/js/2.bfac148e.chunk.js": "/react-fb-messenger-clone/static/js/2.bfac148e.chunk.js",
+    "static/js/2.bfac148e.chunk.js.map": "/react-fb-messenger-clone/static/js/2.bfac148e.chunk.js.map",
     "index.html": "/react-fb-messenger-clone/index.html",
-    "static/css/main.54c6376d.chunk.css.map": "/react-fb-messenger-clone/static/css/main.54c6376d.chunk.css.map",
-    "static/js/2.82729cfc.chunk.js.LICENSE.txt": "/react-fb-messenger-clone/static/js/2.82729cfc.chunk.js.LICENSE.txt"
+    "static/css/main.9e69d33e.chunk.css.map": "/react-fb-messenger-clone/static/css/main.9e69d33e.chunk.css.map",
+    "static/js/2.bfac148e.chunk.js.LICENSE.txt": "/react-fb-messenger-clone/static/js/2.bfac148e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e4cc3a2c.js",
-    "static/js/2.82729cfc.chunk.js",
-    "static/css/main.54c6376d.chunk.css",
-    "static/js/main.f0f9dbe4.chunk.js"
+    "static/js/2.bfac148e.chunk.js",
+    "static/css/main.9e69d33e.chunk.css",
+    "static/js/main.33783bf4.chunk.js"
   ]
 }
