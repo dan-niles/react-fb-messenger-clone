@@ -1,6 +1,6 @@
 # React FB Messenger Clone
 
-A simple clone of the facebook messenger made with React and Firebase
+A simple clone of the facebook messenger chat app made with React and Firebase
 
 ## Demo
 
